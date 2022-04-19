@@ -1,0 +1,1 @@
+# ortalamahesap_c
